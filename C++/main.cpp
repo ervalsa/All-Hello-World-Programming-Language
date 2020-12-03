@@ -8,4 +8,4 @@ int main() {
   return 0;
 }
 
-// Created by Istaqom Bodok
+// Created by Istaqom
