@@ -39,6 +39,16 @@ I encourage all the developers out there to contribute to the repository and hel
       </br>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/istaqom">
+      <img src="https://avatars2.githubusercontent.com/u/49015708?v=4" width="120px;" alt="">
+      <br>
+        <sub>
+          <b>Istaqom Wirawan Adi Pratama</b>
+        </sub>
+      </br>
+    </td>
+  </tr>
 </table>
   
   
