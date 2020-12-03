@@ -18,6 +18,17 @@ I encourage all the developers out there to contribute to the repository and hel
 
 
 ## Contributors
+ <table boder="1">
+        <tr>
+            <td>Baris 1 kolom 1</td>
+            <td>baris 1 kolom 2</td>
+        </tr>
+        <tr>
+            <td>Baris 2 kolom 1</td>
+            <td>baris 2 kolom 2</td>
+        </tr>
+</table>
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/wival08">
