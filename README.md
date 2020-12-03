@@ -8,14 +8,26 @@ This Repository is all Hello World Programs in Programming Language.
 ## Pull Requests
 I encourage all the developers out there to contribute to the repository and help me to expand it. To contribute just make folder and write your Hello World program.
 
+## How to Contribute to this repository
+- Star this repository using 'Star' button on the top.
+- Click on Fork Repository using the 'Fork' button on the top.
+- Clone the forked repository on your PC. Using this command on your Git bash or any terminal with git support : git clone url.
+- Now create a new branch with this command: git branch branchname and then use that branch by this command: git checkout branchname.
+- Go ahead and make changes.
+- After making changes use this command to add the changes: git add filename, and then git commit -m "message here".
+- After that use this command: git push origin branchname.
+- Create a pull request, and wait for Pull Request to get merged.
 
-## Support Author
-> Just  **star** or  **fork** this repository, and follow my github. You have *supported* the Author!
-
+## How to make changes?
+- Check if the language in which you want to contribute is already covered or not?
+- Add code for your language with file name HelloWorld.extension of your programming language like py for python. c for language C.
+- Add your language to this file in the below list.
 
 ## Author
 [**Ervalsa Dwi Nanda**](https://www.linkedin.com/in/ervalsa/) - ervalsananda@gmail.com
 
+## Support Author
+> Just  **star** or  **fork** this repository, and follow my github. You have *supported* the Author!
 
 ## Contributors
 <table>
