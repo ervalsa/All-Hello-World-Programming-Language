@@ -7,3 +7,5 @@ int main() {
   system("pause");
   return 0;
 }
+
+// Created by Istaqom
