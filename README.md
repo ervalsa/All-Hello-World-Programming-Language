@@ -20,8 +20,22 @@ I encourage all the developers out there to contribute to the repository and hel
 ## Contributors
  <table boder="1">
         <tr>
-            <td>Baris 1 kolom 1</td>
-            <td>baris 1 kolom 2</td>
+            <td align="center"><a href="https://github.com/wival08">
+              <img src="https://avatars2.githubusercontent.com/u/34961795?v=4" width="120px;" alt="">
+              <br>
+                <sub>
+                  <b>Ervalsa Dwi Nanda</b>
+                </sub>
+              </br>
+            </td>
+            <td align="center"><a href="https://github.com/qonythazu">
+              <img src="https://avatars1.githubusercontent.com/u/72368050?v=4" width="120px;" alt="">
+              <br>
+                <sub>
+                  <b>Putri Qonita Arif</b>
+                </sub>
+              </br>
+            </td>
         </tr>
         <tr>
             <td>Baris 2 kolom 1</td>
@@ -31,24 +45,10 @@ I encourage all the developers out there to contribute to the repository and hel
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/wival08">
-      <img src="https://avatars2.githubusercontent.com/u/34961795?v=4" width="120px;" alt="">
-      <br>
-        <sub>
-          <b>Ervalsa Dwi Nanda</b>
-        </sub>
-      </br>
-    </td>
+    
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/qonythazu">
-      <img src="https://avatars1.githubusercontent.com/u/72368050?v=4" width="120px;" alt="">
-      <br>
-        <sub>
-          <b>Putri Qonita Arif</b>
-        </sub>
-      </br>
-    </td>
+    
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/istaqom">
