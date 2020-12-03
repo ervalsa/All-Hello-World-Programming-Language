@@ -4,4 +4,4 @@ class Main {
     }
 }
 
-// Created by Istaqoms
+// Created by Istaqom
