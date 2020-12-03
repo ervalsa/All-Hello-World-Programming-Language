@@ -26,6 +26,16 @@ I encourage all the developers out there to contribute to the repository and hel
       </br>
     </td>
   </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/qonythazu">
+      <img src="https://avatars1.githubusercontent.com/u/72368050?v=4" width="120px;" alt="">
+      <br>
+        <sub>
+          <b>Putri Qonita Arif</b>
+        </sub>
+      </br>
+    </td>
+  </tr>
 </table>
   
   
