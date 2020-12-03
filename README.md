@@ -18,7 +18,7 @@ I encourage all the developers out there to contribute to the repository and hel
 
 
 ## Contributors
- <table boder="1">
+<table>
         <tr>
             <td align="center"><a href="https://github.com/wival08">
               <img src="https://avatars2.githubusercontent.com/u/34961795?v=4" width="120px;" alt="">
@@ -55,6 +55,7 @@ I encourage all the developers out there to contribute to the repository and hel
               </br>
             </td>
         </tr>
+ </table>
  
 ## License
 ```
