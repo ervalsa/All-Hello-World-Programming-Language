@@ -1,2 +1,3 @@
 console.log("Hello World"):
-#Created by qonythazu
+
+# Created by qonythazu
