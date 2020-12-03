@@ -14,9 +14,12 @@ I encourage all the developers out there to contribute to the repository and hel
 <table>
   <tr>
     <td align="center"><a href="https://github.com/wival08">
-      <img src="https://avatars2.githubusercontent.com/u/34961795?v=4" width="120px;" alt=""/>
-      <br /><sub><b>Ervalsa Dwi Nanda</b></sub></a><br />
-      <a href="#content-raihan-muhammad" title="Content">🖋</a>
+      <img src="https://avatars2.githubusercontent.com/u/34961795?v=4" width="120px;" alt="">
+      <br>
+        <sub>
+          <b>Ervalsa Dwi Nanda</b>
+        </sub>
+      </br>
     </td>
   </tr>
 </table>
