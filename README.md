@@ -20,8 +20,8 @@ I encourage all the developers out there to contribute to the repository and hel
 
 ## How to make changes?
 - Check if the language in which you want to contribute is already covered or not?
+- Create Folder and then create the file. Example "Python/HelloWorld.py".
 - Add code for your language with file name HelloWorld.extension of your programming language like py for python. c for language C.
-- Add your language to this file in the below list.
 
 ## Author
 [**Ervalsa Dwi Nanda**](https://www.linkedin.com/in/ervalsa/) - ervalsananda@gmail.com
