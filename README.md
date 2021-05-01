@@ -67,6 +67,16 @@ I encourage all the developers out there to contribute to the repository and hel
               </br>
             </td>
         </tr>
+        <tr>
+            <td align="center"><a href="https://github.com/soukied">
+              <img src="https://avatars.githubusercontent.com/u/8915002?v=4" width="120px;" alt="">
+              <br>
+                <sub>
+                  <b>Adhya Adam</b>
+                </sub>
+              </br>
+            </td>
+        </tr>
  </table>
  
 ## License
